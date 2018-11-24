@@ -10,5 +10,8 @@ public class FristTest {
         System.out.println("111111111111111");
         System.out.println("111111111111111");
         System.out.println("111111111111111");
+
+        int i = 10;
+        System.out.println(i);
     }
 }
